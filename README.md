@@ -25,7 +25,7 @@ const skills = {
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=josefizuda&show_icons=true&theme=radical)
 
 ### 🎯 Especialidades
 
@@ -42,7 +42,7 @@ Estou sempre aberto a novos projetos e colaborações!
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-@jw.web-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jw.web)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Josef_Wagner-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fastwp/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Josef_Weslley-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fastwp/)
 [![YouTube](https://img.shields.io/badge/YouTube-@ifastwp-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ifastwp)
 [![Email](https://img.shields.io/badge/Email-dev@josef.com.br-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev@josef.com.br)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-47991244291-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5547991244291)
